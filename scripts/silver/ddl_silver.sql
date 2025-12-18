@@ -89,3 +89,4 @@ CREATE TABLE silver.erp_px_cat_g1v2 (
 	maintenance NVARCHAR(50),
 	dwh_create_date DATETIME2 DEFAULT GETDATE()
 );
+GO
